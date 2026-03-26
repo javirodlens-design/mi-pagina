@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    background-color: darkblue;
+    font-family: 'Times New Roman', Times, serif;
+    height: 40px;
+    padding: 20px;
+    color: aliceblue;
+}
+section{
+    background-color: darkblue;
+    color: antiquewhite;
+    padding: 10px;
+    padding-left: 15px;
+    border-radius: 12px;
+    width: 1000px
+}
